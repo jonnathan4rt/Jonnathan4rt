@@ -3,9 +3,9 @@
 <br>
 <p>
   <img align="right" src="https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" />
- <br><br>
+ 
 </p>
-
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -50,4 +50,4 @@
 
 <br>
 
-[Adam-pw](https://github.com/Adam-pw)
+[Jonnathan4rt](https://github.com/Adam-pw)
