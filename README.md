@@ -35,4 +35,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"
     width="40" height="40" title="Git" /> <!-- Git logo -->
 </div>
-¡Hola! Soy Jonnathan G, un apasionado desarrollador Backend. Estoy especializado en Java y también tengo experiencia en Python, JavaScript, HTML, CSS y Solidity. Además, trabajo con frameworks y herramientas como Spring, Angular, React, MySQL, MongoDB y Git. Si tienes alguna pregunta o proyecto interesante, no dudes en contactarme.
+
