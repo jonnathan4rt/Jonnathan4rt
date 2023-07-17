@@ -7,7 +7,8 @@
 </p>
 <br><br>
 <h3 align="left"><br>Languages and Tools:</h3>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+  width="40" height="40" /> <!-- Java logo added here -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" />
       </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
