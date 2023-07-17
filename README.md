@@ -22,21 +22,19 @@
     width="40" height="40" /> <!-- Solidity logo -->
 </div>
 
-  <br>
-<h3 align="left">Framework Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring"
-  width="40" height="40" /> <!-- Spring logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-  alt="angular" width="40" height="40" /> <!-- Angular logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"
-  width="40" height="40" /> <!-- React logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"
-  width="40" height="40" /> <!-- MySQL logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-  alt="mongodb" width="40" height="40" /> <!-- MongoDB logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"
-  width="40" height="40" /> <!-- Git logo -->
+<h3 align="left"><br>Languages and Tools:</h3>
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring"
+    width="40" height="40" /> <!-- Spring logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+    alt="angular" width="40" height="40" /> <!-- Angular logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"
+    width="40" height="40" /> <!-- React logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"
+    width="40" height="40" /> <!-- MySQL logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb"
+    width="40" height="40" /> <!-- MongoDB logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"
+    width="40" height="40" /> <!-- Git logo -->
+</div>
 
-
-      <br>
-Jonnathan4rt
