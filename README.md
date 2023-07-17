@@ -7,18 +7,21 @@
 </p>
 <br>
 <h3 align="left"><br>Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-  width="40" height="40" /> <!-- Java logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-  width="40" height="40" /> <!-- Python logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript" width="40" height="40" /> <!-- JavaScript logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-  alt="html5" width="40" height="40" /> <!-- HTML logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-  width="40" height="40" /> <!-- CSS logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity"
-  width="40" height="40" /> <!-- Solidity logo -->
+<div style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+    width="40" height="40" /> <!-- Java logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+    width="40" height="40" /> <!-- Python logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript" width="40" height="40" /> <!-- JavaScript logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="html5" width="40" height="40" /> <!-- HTML logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+    width="40" height="40" /> <!-- CSS logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity"
+    width="40" height="40" /> <!-- Solidity logo -->
+</div>
+
   <br>
 <h3 align="left">Framework Tools:</h3>
 
