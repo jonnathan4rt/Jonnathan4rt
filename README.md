@@ -3,7 +3,6 @@
 <br>
 <p>
   <img align="right" src="https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" />
- <br><br>
 </p>
 <br>
 <h3 align="left"><br>Languages and Tools:</h3>
