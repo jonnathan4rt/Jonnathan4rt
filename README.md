@@ -11,15 +11,6 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-- 🌱 I’m currently learning I am looking to specialize in Java. I know other programming languages
-
-- 📫 How to reach me **jonnathan4rt@gmail.com**
-
-- ⚡ Fun fact :- Anime and Music🎵 are the reasons to live.
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
