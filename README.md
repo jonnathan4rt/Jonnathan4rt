@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonnathan G</h1>
 <h3 align="center">Backend Dev🌟.</h3>
-
-
-
 <br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="![image](https://github.com/Jonnathan4rt/Jonnathan4rt/assets/138323611/49e0c7c8-86ae-4d93-807f-d83d753c6cd9)" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
