@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonnathan G</h1>
-<h3 align="center">🌟Backend Dev🌟.</h3>
+<h3 align="center">🌟Backend Dev.🌟</h3>
 <br>
 <p>
   <img align="right" src="https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" />
