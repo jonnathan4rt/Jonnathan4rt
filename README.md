@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonnathan G</h1>
 <h3 align="center">Backend Dev🌟.</h3>
 <br>
-<p><img align="right" src="[![image](https://github.com/Jonnathan4rt/Jonnathan4rt/assets/138323611/49e0c7c8-86ae-4d93-807f-d83d753c6cd9)](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)" /></p>
-
+<p>
+  <img align="right" src="https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" />
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
