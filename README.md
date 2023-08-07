@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jonnathan</h1>
-<h3 align="center">I'm passionate about backend development, creating effective solutions, and process optimization. This profile showcases some of the exciting projects I will be involved in over the years.</h3>
+<h3 align="center">A passionate student of software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/756/75682.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnathan4rt&label=Profile%20views&color=0e75b6&style=flat" alt="jonnathan4rt" /> </p>
