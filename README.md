@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnathan4rt&label=Profile%20views&color=0e75b6&style=flat" alt="jonnathan4rt" /> </p>
 
-- 💬 Ask me about **Java, Spring boot, Mysql, Git.**
-
-- 📫 How to reach me **jonnathan.rog@gmail.com**
+- 💬 Ask me about **Java, Spring boot, Angular, Mysql, Git.**
 
 - ⚡ Fun fact **I enjoy tackling programming challenges in my free time.**
 
