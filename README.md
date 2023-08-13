@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzbtDtXkOPbFBpPeKsh_k7IMJu8abp0DRuk0K0swZLM84RnBLLwvseb7KZUQWJDe3fcV_QhrYrvdpu5RKDVFDQgI1xcm5z44-JWVQCikgb1QRyFzjigP9kzu3mvqAmB5tzoSvglXAH2MZwj6qmGNlWTSg0lsi5eMQOlZETRuoFM6WB8YIZZY4NRD8IM8AR/s2000/Banner%20(1).png)
 
 
-<h1 align="center">Hi 👋, I'm Jonnathan</h1>
+<h1 align="center">Hi 👋, I'm Jonnathan</h1> 
 <h3 align="center">Self-taught student of software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/756/75682.gif">
 
