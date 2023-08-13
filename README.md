@@ -15,8 +15,11 @@
 <a href="https://linkedin.com/in/jonnathan4rt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonnathan4rt/" height="30" width="40" /></a>
 </p>
 
+
+
+
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table align="left">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -42,11 +45,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     </td>
   </tr>
 </table>
-
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=jonnathan4rt&show_icons=true&theme=radical" alt="Jonnathan's GitHub stats" width="400" />
 </div>
+
