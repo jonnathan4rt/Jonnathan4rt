@@ -1,7 +1,6 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzbtDtXkOPbFBpPeKsh_k7IMJu8abp0DRuk0K0swZLM84RnBLLwvseb7KZUQWJDe3fcV_QhrYrvdpu5RKDVFDQgI1xcm5z44-JWVQCikgb1QRyFzjigP9kzu3mvqAmB5tzoSvglXAH2MZwj6qmGNlWTSg0lsi5eMQOlZETRuoFM6WB8YIZZY4NRD8IM8AR/s2000/Banner%20(1).png)
 
-
-<h1 align="center">Hi 👋, I'm Jonnathan</h1> 
+<h1 align="center">Hi 👋, I'm Jonnathan</h1>
 <h3 align="center">Self-taught student of software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/756/75682.gif">
 
@@ -20,6 +19,5 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="40" height="40"/> </p>
 
+<!-- Agrega las estadísticas de GitHub a continuación -->
 ![Jonnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnathan4rt&show_icons=true&theme=radical)
-
-</p>
