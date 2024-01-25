@@ -1,4 +1,4 @@
-![MasterHead]([![Portada.jpg](https://i.postimg.cc/PqRDy6tT/Portada.jpg)](https://postimg.cc/NyRLfk9z))
+[![Portada.jpg](https://i.postimg.cc/PqRDy6tT/Portada.jpg)](https://postimg.cc/NyRLfk9z)
 
 <h1 align="center">Hi 👋, I'm Jonnathan </h1>
 <h3 align="center">Software Development.</h3>
